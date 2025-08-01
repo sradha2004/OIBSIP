@@ -23,6 +23,8 @@ Applied responsive design principles to ensure mobile compatibility.
 
 Focused on semantic HTML structure and user-friendly layout.
 
+LinkedIn: https://www.linkedin.com/posts/sradha-sreekumar-60215a353_oasisinfobyte-internship-webdevelopment-activity-7356994176187551745-jnGU?utm_source=share&utm_medium=member_android&rcm=ACoAAFgfF-IBZYFSAhQ3VvoS6hma09Akj1El3WE
+
 
 🔹 Task 2: Personal Portfolio Website
 
@@ -41,6 +43,8 @@ Contact – for communication or collaboration.
 
 Emphasized consistent design, clear typography, and smooth navigation.
 
+LinkedIn: https://www.linkedin.com/posts/sradha-sreekumar-60215a353_oasisinfobyte-internship-webdevelopment-activity-7357000040634044416-o1OW?utm_source=share&utm_medium=member_android&rcm=ACoAAFgfF-IBZYFSAhQ3VvoS6hma09Akj1El3WE
+
 
 🔹 Task 3: Temperature Converter Web App
 
@@ -55,6 +59,8 @@ Input validation,
 Unit conversion logic,
 
 Real-time output updates based on user selection.
+
+LinkedIn: https://www.linkedin.com/posts/sradha-sreekumar-60215a353_oasisinfobyte-internship-webdevelopment-activity-7357000040634044416-o1OW?utm_source=share&utm_medium=member_android&rcm=ACoAAFgfF-IBZYFSAhQ3VvoS6hma09Akj1El3WE
 
 🛠️ Technologies & Tools Used
 
