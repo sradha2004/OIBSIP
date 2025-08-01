@@ -60,7 +60,7 @@ Unit conversion logic,
 
 Real-time output updates based on user selection.
 
-LinkedIn: https://www.linkedin.com/posts/sradha-sreekumar-60215a353_oasisinfobyte-internship-webdevelopment-activity-7357000040634044416-o1OW?utm_source=share&utm_medium=member_android&rcm=ACoAAFgfF-IBZYFSAhQ3VvoS6hma09Akj1El3WE
+LinkedIn: https://www.linkedin.com/posts/sradha-sreekumar-60215a353_internship-webdevelopment-html-activity-7357004927174393856-cldx?utm_source=share&utm_medium=member_android&rcm=ACoAAFgfF-IBZYFSAhQ3VvoS6hma09Akj1El3WE
 
 🛠️ Technologies & Tools Used
 
